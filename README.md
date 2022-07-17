@@ -1,1 +1,1 @@
-# Thsi project is for me to familiar how to properly using React context API.
+# Thsi project is for me to familiar how to properly using React useEffect.
